@@ -16,3 +16,5 @@ npm run watch
 ```bash
 python -m SimpleHTTPServer
 ```
+
+Try it in your browser here `http://0.0.0.0:8000/`
