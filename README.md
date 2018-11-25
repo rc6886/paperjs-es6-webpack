@@ -2,7 +2,7 @@
 Paper.js bolierplate with ES6 and Webpack
 
 ## Building
-```bash
+```
 git clone git@github.com:onoxo/paperjs-es6-webpack
 cd paperjs-es6-webpack
 npm install
