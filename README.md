@@ -6,3 +6,8 @@ Paper.js bolierplate with ES6 and Webpack
 npm install
 npm run watch
 ```
+
+## Run it with Python SimpleHTTPServer
+```
+python -m SimpleHTTPServer
+```
