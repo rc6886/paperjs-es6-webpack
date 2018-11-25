@@ -1,2 +1,2 @@
 # paperjs-es6-webpack
-Paper.js ES6 bolierplate
+Paper.js bolierplate with ES6 and Webpack
